@@ -124,7 +124,7 @@ p.small {
 }
 
 header {
-	background: url('../img/slider1.jpg') no-repeat center center;
+	background: url('../img/slider1.png') no-repeat center center;
 	background-size:cover;
 	position: relative;
 	overflow: hidden;
